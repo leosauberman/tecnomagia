@@ -1,0 +1,13 @@
+.footer{
+    margin-top: 5%;
+    font-family: Klavika;
+}
+.logo{
+    width: 5%;
+}
+.copyright{
+    color: white;
+    font-size: 1em;
+    width: 70%;
+    margin: 1% auto 3% auto;
+}

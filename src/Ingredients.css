@@ -1,0 +1,118 @@
+@font-face{
+    font-family: "Gotham";
+    src: url('./fonts/Gotham-Medium.otf');
+}
+@font-face {
+    font-family: "Gotham-Light";
+    src: url('./fonts/Gotham-Light.otf');
+}
+@font-face{
+    font-family: "Klavika-Light";
+    src: url("./fonts/Klavika Light.otf");
+}
+
+.ingredients{
+    width: 100%;
+    height: 67em;
+    background-color: #2d2b3e;
+    padding-top: 1em;
+    font-family: Klavika;
+}
+    .ingredients .title{
+        width: 33%;
+        font-size: 3.4em;
+        font-weight: 500;
+        font-stretch: normal;
+        line-height: 1.14;
+        text-align: left;
+        margin-top: 4%;
+        margin-left: 16.65em;
+        color: #ffffff;
+    }
+        .ingredients .title .text-style {
+            color: #00faf1;
+        }
+    
+    .ingredients .sobre{
+        font-stretch: normal;
+        line-height: 1.14;
+        text-align: left;
+        margin-top: 5em;
+        margin-left: 56.65em;
+        color: #ffffff;
+        float: center;
+    }
+    
+        .ingredients .sobre .sobre-titulo{
+            width: 10%;
+            height: 10%;
+            margin-bottom: 1%;
+            font-size: 2em;
+            font-weight: 500;
+            font-style: normal;
+            font-stretch: normal;
+            line-height: normal;
+            letter-spacing: normal;
+            text-align: left;
+            color: #ffffff;
+        }
+        .ingredients .sobre .sobre-descricao{
+            width: 58%;
+            height: 50%;
+            font-family: Gotham-Light;
+            font-size: 1.4em;
+            font-weight: 100;
+            font-style: normal;
+            font-stretch: normal;
+            line-height: 1.64;
+            letter-spacing: normal;
+            text-align: left;
+            color: #ffffff;
+        }
+    
+    .ingredients .metodo{
+        font-stretch: normal;
+        line-height: 1.14;
+        text-align: left;
+        margin-top: 2.5em;
+        margin-left: 56.65em;
+        color: #ffffff;
+        float: center;
+    }
+    
+        .ingredients .metodo .metodo-titulo{
+            width: 20%;
+            height: 1%;
+            margin-bottom: 1%;
+            font-size: 2em;
+            font-weight: 500;
+            font-style: normal;
+            font-stretch: normal;
+            line-height: normal;
+            letter-spacing: normal;
+            text-align: left;
+            color: #ffffff;
+      }
+        .ingredients .metodo .metodo-descricao{
+            width: 58%;
+            height: 50%;
+            font-family: Gotham-Light;
+            font-size: 1.4em;
+            font-weight: 100;
+            font-style: normal;
+            font-stretch: normal;
+            line-height: 1.64;
+            letter-spacing: normal;
+            text-align: left;
+            color: #ffffff;
+        }
+    
+    .ingredients .alchemy{
+        width: 35%;
+        height: 100%;
+        float: left;
+        display: -ms-flexbox;
+        display: flex;
+        margin-top: -12.3%;
+        margin-left: 9em; 
+    }
